@@ -16,7 +16,6 @@ int bss = 0; // bss段
     *p = g;
 
     std::cout << "*p = " << *p << std::endl;
-    
 
     delete p;
 
